@@ -1,6 +1,0 @@
-test
-
-git diff test
-
-
-changed
